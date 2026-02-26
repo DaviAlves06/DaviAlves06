@@ -2,34 +2,46 @@
 
 ### Software Engineering Student @ FIAP | AI & Python Developer
 
-I am a career-transition professional leveraging a solid background in **Finance and Strategic Administration** to build innovative, AI-driven software solutions. Currently maintaining a **bachelor's degree at FIAP**, I specialize in Python and RAG (Retrieval-Augmented Generation) architectures.
+I am a career-transition professional leveraging a solid background in **Finance and Strategic Administration** to build innovative, AI-driven software solutions. Currently pursuing a **Bachelor's degree at FIAP**, I specialize in Python and RAG (Retrieval-Augmented Generation) architectures.
 
 ---
 
-### 🛠 Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 
-* **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-* **AI & Data:** Generative AI (Gemini API), LangChain (RAG), ChromaDB, Embeddings
-* **Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-* **Professional Background:** Strategic Administration, Financial Support, and Design Thinking
-
----
-
-### 🌟 Featured Projects
-
-* **[AI Pharmacy Agent](https://github.com/DaviAlves06/ai-pharmacy-agent):** A professional pharmaceutical assistant using RAG and Gemini 1.5 Flash.
-* **[Portfolio Personal](https://github.com/DaviAlves06/portfolio):** A modern landing page to showcase my evolving tech journey.
+* **Languages:** Python, JavaScript
+* **AI & Data:** Gemini API, LangChain (RAG), ChromaDB, Embeddings
+* **Frontend:** React, HTML5, CSS3
+* **Professional Background:** Strategic Administration, Financial Support, Design Thinking
 
 ---
 
-### 📊 GitHub Stats
+## 🌟 Featured Projects
 
-![Davi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaviAlves06\&show_icons=true\&count_private=true\&include_all_commits=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAlves06\&layout=compact\&langs_count=7\&theme=radical)
+* 🔹 [AI Pharmacy Agent](https://github.com/DaviAlves06/ai-pharmacy-agent) — Pharmaceutical assistant using RAG + Gemini 1.5 Flash
+* 🔹 [Portfolio](https://github.com/DaviAlves06/portfolio) — Personal developer portfolio
 
 ---
 
-### 📬 Connect with me:
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/davi-alves-06/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaviAlves06&show_icons=true&count_private=true&include_all_commits=true&theme=radical&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAlves06&layout=compact&langs_count=8&theme=radical&cache_seconds=1800" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DaviAlves06&theme=radical&hide_border=false" />
+</p>
+
+---
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/davi-alves-06/)
