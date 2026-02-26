@@ -25,8 +25,7 @@ I am a career-transition professional leveraging a solid background in **Finance
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviAlves06&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAlves06&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviAlves06}](https://github-readme-stats.vercel.app/api?username=DaviAlves06&show_icons=true&theme=radical"/>
 </div>
 
 ---
