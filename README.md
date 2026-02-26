@@ -2,7 +2,7 @@
 
 ### Software Engineering Student @ FIAP | AI & Python Developer
 
-I am a career-transition professional leveraging a solid background in **Finance and Strategic Administration** to build innovative, AI-driven software solutions. Currently maintaining a **Grade 10 average at FIAP**, I specialize in Python and RAG (Retrieval-Augmented Generation) architectures.
+I am a career-transition professional leveraging a solid background in **Finance and Strategic Administration** to build innovative, AI-driven software solutions. Currently maintaining a **bachelor's degree at FIAP**, I specialize in Python and RAG (Retrieval-Augmented Generation) architectures.
 
 ---
 
