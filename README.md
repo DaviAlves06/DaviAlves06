@@ -2,14 +2,7 @@
 
 ### Software Engineering Student @ FIAP | AI & Python Developer
 
-I am a transition-career professional leveraging a solid background in Finance and Administration to build innovative AI-driven solutions. Currently focused on Software Engineering at FIAP (Grade 10 average) and specializing in LLMs and RAG architectures.
-
----
-
-### 15-Year Recruiter Highight: 
-> "Davi combines the analytical precision of the financial sector with cutting-edge AI implementation skills, focusing on Python and LangChain."
-
----
+I am a transition-career professional leveraging a solid background in Finance and Administration to build innovative AI-driven solutions. Currently focused on Software Engineering at FIAP and specializing in LLMs and RAG architectures.
 
 ### 🛠 Tech Stack & Tools
 
