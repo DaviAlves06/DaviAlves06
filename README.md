@@ -1,35 +1,112 @@
-# Hi, I'm Davi Alves! 👋
+# Hi, I'm Davi Alves 👋
 
-### Software Engineering Student @ FIAP | AI & Python Developer
+AI Systems & Backend Developer  
+Building intelligent applications with Python and Retrieval-Augmented Generation (RAG)
 
-I am a career-transition professional leveraging a solid background in **Finance and Strategic Administration** to build innovative, AI-driven software solutions. Currently maintaining a **bachelor's degree at FIAP**, I specialize in Python and RAG (Retrieval-Augmented Generation) architectures.
-
----
-
-### 🛠 Tech Stack & Tools
-
-- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- **AI & Data:** Generative AI (Gemini API), LangChain (RAG), ChromaDB, Embeddings
-- **Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- **Professional Background:** Strategic Administration, Financial Support, and Design Thinking
+📍 São Paulo, Brazil  
+🎓 Software Engineering @ FIAP
 
 ---
 
-### 🌟 Featured Projects
+## About Me
 
-- **[AI Pharmacy Agent](https://github.com/DaviAlves06/ai-pharmacy-agent):** A professional pharmaceutical assistant using RAG and Gemini 1.5 Flash.
-- **[Portfolio Personal](https://github.com/DaviAlves06/portfolio):** A modern landing page to showcase my evolving tech journey.
+I am a software engineering student focused on **AI-powered systems and backend development**.
+
+My work explores how **Large Language Models, semantic search and data pipelines** can be combined to build intelligent applications capable of querying complex documentation and transforming data into useful knowledge.
+
+I am particularly interested in:
+
+- AI-powered knowledge systems
+- Retrieval-Augmented Generation (RAG)
+- Backend architecture for LLM applications
+- Data-driven software systems
 
 ---
 
-### 📊 GitHub Stats
+## Tech Stack
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviAlves06}](https://github-readme-stats.vercel.app/api?username=DaviAlves06&show_icons=true&theme=radical"/>
-</div>
+**Languages**
+
+Python  
+JavaScript
+
+**AI Engineering**
+
+LangChain  
+LangGraph  
+RAG Architectures  
+Embeddings  
+Semantic Search
+
+**Backend Development**
+
+REST APIs  
+Object-Oriented Programming  
+Modular Architecture
+
+**Data**
+
+Streamlit  
+Data Visualization  
+Data Processing
+
+**Tools**
+
+Git  
+Docker (Learning)  
+Agile Development
 
 ---
 
-### 📬 Connect with me:
+## Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-alves-06/)
+### Pharma RAG Assistant
+RAG-based AI assistant capable of interpreting pharmaceutical documentation and answering technical medical queries using semantic search.
+
+Tech:
+Python • LangChain • RAG • Embeddings
+
+---
+
+### Rulebook RAG System
+AI-powered semantic search system designed to query complex rulebook documentation using retrieval-based reasoning.
+
+Tech:
+Python • LangChain • Document Retrieval
+
+---
+
+### Interactive Analytics Dashboard
+Python dashboard for exploring datasets and generating insights through interactive visualizations.
+
+Tech:
+Python • Streamlit • Data Visualization
+
+---
+
+### Environment Monitoring System
+Prototype system designed to analyze environmental and atmospheric data using Python-based analytics.
+
+Tech:
+Python • Data Analysis
+
+---
+
+## Currently Learning
+
+- FastAPI for AI APIs
+- Vector Databases
+- LLM application architecture
+- AI agents with LangGraph
+
+---
+
+## Connect With Me
+
+LinkedIn  
+https://linkedin.com/in/davi-alves-a705ab360
+
+Portfolio  
+https://github.com/DaviAlves06/engineering-portfolio
+
+---
